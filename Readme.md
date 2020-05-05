@@ -15,4 +15,9 @@
 
 ![](https://i.imgur.com/QTuet3D.png)
 
-# 2. Setting up a Svelte App
+# 9. Components
+
+![](https://i.imgur.com/5F1zULj.png)
+
+- App.svelte: Root Component
+- Divide component like tree
