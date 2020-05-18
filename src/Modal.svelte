@@ -1,9 +1,6 @@
 <script>
-  export let message = 'default value';
   export let showModal = false;
   export let isPromo = false;
-
-
 </script>
 
 {#if showModal}
